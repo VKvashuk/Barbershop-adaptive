@@ -2456,8 +2456,8 @@ img {
     right: 0;
     left: 0;
     height: 42px;
-    background-image: url("../img/corner-double.svg");
-    background-repeat: no-repeat;
+/*     background-image: url("../img/corner-double.svg");
+    background-repeat: no-repeat; */
   }
   .form::after {
     display: none;
